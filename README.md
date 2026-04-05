@@ -20,9 +20,7 @@
 
 ## 🙋 About Me
 
-Hi, I'm **Wenze Zheng**.  
 I focus on **Java backend development** and **AI application development**.
-
 I enjoy building practical projects with **Spring Boot, Redis, MySQL, and Vue 3**, and I’m especially interested in **high concurrency**, **system design**, and **LLM-powered applications**.
 
 📫 Email: **2017160177@qq.com**
