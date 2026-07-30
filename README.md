@@ -1,4 +1,4 @@
-<h1 align="center">Hi ~ I'm 郑文泽 / Wenze Zheng</h1>
+<h1 align="center">Hi ~ I'm Wenze Zheng</h1>
 
 <p align="center">
   <img
